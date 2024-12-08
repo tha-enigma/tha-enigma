@@ -1,5 +1,5 @@
-# Hello, I'm CHANGEME
-<a href="www.linkedin.com/in/michael-jones-34269a22b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, MJ
+<a href="https://www.linkedin.com/in/michael-jones-34269a22b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **tha-enigma/tha-enigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
